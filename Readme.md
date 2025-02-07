@@ -25,7 +25,7 @@ shopping-cart-assignment/
 │── db.json               # Mock product database for JSON Server  
 │── package.json          # Dependencies & scripts  
 │── tsconfig.json         # TypeScript configuration  
-│── README.md             # Project documentation  
+│── README.md            
 ⚙️ Setup Instructions
 1️⃣ Install Dependencies
 
