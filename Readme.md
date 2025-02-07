@@ -37,8 +37,11 @@ npm install
 2️⃣ Start JSON Server
 
 Run the JSON Server to mock a backend API:
+
 npm start
+
 npx json-server --watch db.json --port 3001
+
 ✅ API Endpoint: http://localhost:3001/products
 
 3️⃣ Run the Shopping Cart CLI
