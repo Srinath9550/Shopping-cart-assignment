@@ -35,20 +35,21 @@ Ensure you have Node.js (v20+) installed, then run:
 
 npm install
 2️⃣ Start JSON Server
+
 Run the JSON Server to mock a backend API:
-
-
+npm start
 npx json-server --watch db.json --port 3001
 ✅ API Endpoint: http://localhost:3001/products
 
 3️⃣ Run the Shopping Cart CLI
 Use ts-node to execute the CLI commands:
 ----------------------------------------
-
 npx ts-node src/index.ts
 
 📌 Available Commands:
 ------------------------
+![result](https://github.com/user-attachments/assets/44990dea-b76d-4d76-9307-1c96a5f6a440)
+
 
 ADD [product_id] [quantity] → Add products to the cart
 VIEW → Display cart summary
